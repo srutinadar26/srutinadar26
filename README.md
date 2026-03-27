@@ -1,16 +1,14 @@
----
 <h1 align="center" style="color:#FACC15;">𝓢𝓻𝓾𝓽𝓲 𝓝𝓪𝓭𝓪𝓻 👩‍💻</h1>
-<h3 align="center">🚀 AI & Data Science Student</h3>
 
 ## ⚙️ Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
 ## 🤖 AI Tools
-<p align="center">
+<p align=left">
   <img src="https://img.shields.io/badge/AI-0f172a?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-AI-f97316?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge"/>
@@ -20,18 +18,6 @@
 </p>
 
 ---
-
-## 🌙 Hobbies
-<p align="center">
-  <img src="https://img.shields.io/badge/Poetry-0f172a?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Journaling-1e293b?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Reading-374151?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stargazing-020617?style=for-the-badge&logo=star&logoColor=94a3b8"/>
-</p>
-
-<p align="center">
-  <i>My sould speaks in metaphors and midnight skies</i>
-</p>
 
 ## 📊 GitHub Dashboard
 <p align="center">
@@ -48,6 +34,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srutinadar26&theme=tokyonight" />
+</p>
+
+---
 ## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINK">
@@ -68,12 +59,15 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srutinadar26&theme=tokyonight" />
+## 🌙 Hobbies <p align="center">
+  <i>My soul speaks in metaphors and midnight skies</i>
 </p>
-
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Poetry-0f172a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Journaling-1e293b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reading-374151?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stargazing-020617?style=for-the-badge&logo=star&logoColor=94a3b8"/>
+</p>
 
 <p align="center">
   <b><i>Curious mind, exploring endlessly</i></b>
