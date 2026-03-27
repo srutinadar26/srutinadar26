@@ -1,13 +1,13 @@
-<h1 align="center" style="color:#FACC15;">𝓢𝓻𝓾𝓽𝓲 𝓝𝓪𝓭𝓪𝓻 👩‍💻</h1>
+<h1 align="center">𝚂𝚁𝚄𝚃𝙸 𝙽𝙰𝙳𝙰𝚁👩‍💻</h1>
 
-## ⚙️ Tech Stack
+## Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🤖 AI Tools
+## AI Tools
 <p align=left">
   <img src="https://img.shields.io/badge/AI-0f172a?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-AI-f97316?style=for-the-badge"/>
