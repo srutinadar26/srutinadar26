@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#22D3EE;">𝕊𝕣𝕦𝕥𝕚 ℕ𝕒𝕕𝕒𝕣 👩‍💻</h1>
+<h1 align="center" style="color:#FACC15;">𝓢𝓻𝓾𝓽𝓲 𝓝𝓪𝓭𝓪𝓻 👩‍💻</h1>
 <h3 align="center">🚀 AI & Data Science Student</h3>
 
 <p align="center">
@@ -12,9 +12,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" style="border-radius:50%;" />
 
-<h3>Sruti Nadar</h3>
-<p style="margin:0;">AI & Data Science</p>
-<p style="margin:0;">📍 Mumbai, India</p>
+<h2>Sruti Nadar</h2>
 
 </td>
 
@@ -26,7 +24,7 @@
 <li>🧩 Strong in logic & structured thinking</li>
 <li>🚀 Exploring intelligent systems & real-world tech</li>
 <li>🌱 Focused on long-term growth & global opportunities</li>
-<li>🔒 Building quietly</li>
+<li>🔒 Creating what feels like/li>
 </ul>
 
 </td>
