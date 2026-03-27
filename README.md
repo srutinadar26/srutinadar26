@@ -1,38 +1,6 @@
+---
 <h1 align="center" style="color:#FACC15;">𝓢𝓻𝓾𝓽𝓲 𝓝𝓪𝓭𝓪𝓻 👩‍💻</h1>
 <h3 align="center">🚀 AI & Data Science Student</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=26&duration=3500&pause=1200&color=FACC15&center=true&vCenter=true&width=750&lines=In+progress.;Getting+better%2C+one+step+at+a+time.;Somewhere+between+ideas+and+reality.;Letting+curiosity+lead+the+way." />
-</p>
-
-<table width="100%" cellpadding="10">
-<tr>
-
-<td width="35%" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" style="border-radius:50%;" />
-
-<h2>Sruti Nadar</h2>
-
-</td>
-
-<td width="65%" align="left">
-
-<h3 style="margin-bottom:8px;">About</h3>
-
-<ul style="margin-top:0; padding-left:18px;">
-<li>🧩 Strong in logic & structured thinking</li>
-<li>🚀 Exploring intelligent systems & real-world tech</li>
-<li>🌱 Focused on long-term growth & global opportunities</li>
-<li>🔒 Creating what feels like/li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
----
 
 ## ⚙️ Tech Stack
 <p align="center">
