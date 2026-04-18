@@ -2,7 +2,7 @@
 
 <h3>⚙️ Tech Stack</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,java,kotlin,cpp,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,java,figma,cpp,git,github,vscode&theme=dark" />
 </p>
 
 ---
