@@ -14,12 +14,12 @@
 
 ## 👋 About Me
 
-I'm **Sruti**, an Engineering student specializing in **Artificial Intelligence & Data Science**, currently in my 5th semester. I love building things at the intersection of software and machine learning from full-stack apps to AI-powered tools and I'm always experimenting with the latest AI dev stack.
+I love building things at the intersection of software and machine learning from full-stack apps to AI-powered tools and I'm always experimenting with the latest AI dev stack.
 
-- 🔭 Currently deep in AI/DS coursework and side projects
+- 🔭 Currently exploring MERN Stack Applications - Full Stack
 - 🌱 Exploring the modern AI toolchain — from LLM APIs to agentic coding tools
 - 💬 Ask me about React, Node.js, Python, or ML fundamentals
-- ⚡ Fun fact: I build with AI tools almost as much as I build *AI* tools
+- ⚡ Diving Deep into ML & DL Fundamentals
 
 <br>
 
