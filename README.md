@@ -1,14 +1,22 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&height=90&lines=SRUTI+NADAR" alt="Sruti Nadar" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Engineer+%7C+AI+%26+Data+Science;Building+things+that+learn+and+ship;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
-
 </div>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header" width="100%"/>
+
+<br>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1kL_lvQyudHkmEI_66r5IYH2DJTfUvBoU/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-F59E0B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/srutinadar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <br>
 
@@ -64,7 +72,5 @@ I love building things at the intersection of software and machine learning from
 </p>
 
 <br>
-
-<table width="90%" cellpadding="20" align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
