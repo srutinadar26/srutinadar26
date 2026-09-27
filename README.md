@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1kL_lvQyudHkmEI_66r5IYH2DJTfUvBoU/view?usp=drivesdk">
+  <a href="https://drive.google.com/file/d/10Qvfp-0CxFcOmXQrJ6MJnbFOl5wlDA7M/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-F59E0B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/srutinadar/">
