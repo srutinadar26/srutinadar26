@@ -19,16 +19,10 @@
 </p>
 
 <br>
-
-## 👋 About Me
-
-I love building things at the intersection of software and machine learning from full-stack apps to AI-powered tools and I'm always experimenting with the latest AI dev stack.
-
-- 🔭 Currently exploring MERN Stack Applications - Full Stack
-- 🌱 Exploring the modern AI toolchain — from LLM APIs to agentic coding tools
-- 💬 Ask me about React, Node.js, Python, or ML fundamentals
-- ⚡ Diving Deep into ML & DL Fundamentals
-
+<p align="center">
+  I build at the intersection of software and machine learning, creating
+  full-stack applications, AI-powered tools, and data-driven solutions.
+</p>
 <br>
 
 ## ⚙️ Tech Stack
